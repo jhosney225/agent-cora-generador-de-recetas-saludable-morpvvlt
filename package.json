@@ -1,0 +1,6 @@
+{
+  "name": "agent-cora-generador-de-recetas-saludable-morpvvlt",
+  "version": "1.0.0",
+  "description": "Proyecto de Cora [Gen20]: generador de recetas saludables con calorias",
+  "main": "index.js"
+}
